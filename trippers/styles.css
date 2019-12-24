@@ -1,0 +1,52 @@
+.top{
+    display:flex;
+    background-color: rgba(142, 19, 199, 0.856);
+    padding :10px;
+    margin:10px;
+}
+span#track{
+    padding: 5px;
+    margin:10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aliceblue;
+}
+span#carrer{
+    padding: 5px;
+    margin:10px;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+div.jobsdiv{
+    display: flex;
+}
+
+
+.body
+{
+    background-color: rgb(125, 7, 235);
+}
+span#resourses{
+    padding: 5px;
+    margin:10px;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+  .shadowcard {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  
+  /* On mouse-over, add a deeper shadow */
+  .shadowcard:hover {
+    box-shadow: 0 16px 16px 0 rgba(64, 32, 207, 0.3);
+  }
+  .borderp{
+      border: 5%;
+      border-radius: 2%;
+      border-color: blueviolet;
+      text-align: center;
+      margin-top:15%;
+      padding: 2%;
+  }
