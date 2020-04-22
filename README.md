@@ -1,4 +1,6 @@
-# imagine-world
+# imagine-world   
+A pure UI intensive project uses HTML + CSS + BOOTSTRAP.   
+Here we focused on making travel a better carrer option by increasing the reach of talent.
 <a href="https://ibb.co/ZcnqDP7"><img src="https://i.ibb.co/r5CDrSN/Screenshot-from-2019-12-24-22-19-13.png" alt="Screenshot-from-2019-12-24-22-19-13" border="0"></a>
 <a href="https://ibb.co/4pgqrBK"><img src="https://i.ibb.co/x68kTVX/Screenshot-from-2019-12-24-22-19-20.png" alt="Screenshot-from-2019-12-24-22-19-20" border="0"></a>
 <a href="https://ibb.co/WW59Ngq"><img src="https://i.ibb.co/DDWXP5s/Screenshot-from-2019-12-24-22-19-31.png" alt="Screenshot-from-2019-12-24-22-19-31" border="0"></a>
